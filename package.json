@@ -1,0 +1,14 @@
+{
+  "name": "nifty-flow-evidence-backend",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {"start":"node server.js"},
+  "dependencies": {
+    "cors":"^2.8.5",
+    "express":"^5.1.0",
+    "otplib":"^12.0.1",
+    "web-push":"^3.8.0",
+    "ws":"^8.18.3"
+  }
+}
